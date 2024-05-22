@@ -63,32 +63,7 @@ npm run dev
   <img src="./readme-data/Web - Profile.png" width="400px" alt="Profile">
 </div>
 
-## 🫂 Equipo
-<table align="center">
-  <tr>
-    <td valing="top">
-      <a href="https://www.linkedin.com/in/rosariobelen" target="_blank">
-        <img src="./readme-data/Team - Rosario Belen.jpg" width="150px" height="150px" alt="Rosario Belen">
-        <p align="center">Rosario Belen</p>
-        <p align="center">Diseño UX/UI</p>
-      </a>
-    </td>
-    <td valing="top">
-      <a href="https://www.linkedin.com/in/jorge-sifuentes-vera" target="_blank">
-        <img src="./readme-data/Team - Jorge Sifuentes.jpg" width="150px" height="150px" alt="Jorge Sifuentes">
-        <p align="center">Jorge Sifuentes</p>
-        <p align="center">Tester QA</p>
-      </a>
-    </td>
-    <td valing="top">
-      <a href="https://www.linkedin.com/in/lucas-escudero-54195322b" target="_blank" alt="Rosario Belen">
-        <img src="./readme-data/Team - Lucas Escudero.jpg" width="150px" height="150px" alt="Lucas Escudero">
-        <p align="center">Lucas Escudero</p>
-        <p align="center">Fullstack Developer</p>
-      </a>
-    </td>
-  </tr> 
-</table>
+
 
 ## 👏🏻 Agradecimientos
 <div align="center">
