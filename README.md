@@ -65,7 +65,3 @@ npm run dev
 
 
 
-## 👏🏻 Agradecimientos
-<div align="center">
-  <img src="./readme-data//No country - Logo.png" align="center" width="250px"/>
-</div>
