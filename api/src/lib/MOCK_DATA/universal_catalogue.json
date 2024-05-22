@@ -1,0 +1,22 @@
+[
+  {
+    "id_universal_catalogue": "ba4c4edd-3b52-4288-b38f-8117e2e0827a",
+    "name": "Cardiologia"
+  },
+  {
+    "id_universal_catalogue": "6dc7fbc4-09fa-43a5-8ff8-770119692bdd",
+    "name": "Pediatria"
+  },
+  {
+    "id_universal_catalogue": "32f1717c-a345-4dd6-9f79-f3ab8ae6b3dd",
+    "name": "Dermatologia"
+  },
+  {
+    "id_universal_catalogue": "d02c1e95-56f0-4674-8fe1-cac5d64feb4b",
+    "name": "Ginecologia"
+  },
+  {
+    "id_universal_catalogue": "500e43a6-db97-459f-9bfa-145738a1bd94",
+    "name": "Neurologia"
+  }
+]

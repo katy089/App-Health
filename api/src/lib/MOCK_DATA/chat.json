@@ -1,0 +1,20 @@
+[
+  {
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "consult_reason": "Razon 1",
+    "id_doctor": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "id_patient": "09b39b81-9b42-4c92-bbc3-77bb55624ba1"
+  },
+  {
+    "id_chat": "0d689a4b-7ed1-4b7b-b2db-bc6a4f6f430f",
+    "consult_reason": "Razon 2",
+    "id_doctor": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "id_patient": "0d689a4b-7ed1-4b7b-b2db-bc6a4f6f430f"
+  },
+  {
+    "id_chat": "22fd6933-9cf9-4de2-97a4-d71d1a611733",
+    "consult_reason": "Razon 3",
+    "id_doctor": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "id_patient": "22fd6933-9cf9-4de2-97a4-d71d1a611733"
+  }
+]

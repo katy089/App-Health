@@ -1,0 +1,72 @@
+[
+  {
+    "id_patient": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "fullname": "John David",
+    "email": "johndoe@example.com",
+    "password": "123456",
+    "sex": "male"
+  },
+  {
+    "id_patient": "0d689a4b-7ed1-4b7b-b2db-bc6a4f6f430f",
+    "fullname": "Jane Smith",
+    "email": "janesmith@example.com",
+    "password": "654321",
+    "sex": "female"
+  },
+  {
+    "id_patient": "22fd6933-9cf9-4de2-97a4-d71d1a611733",
+    "fullname": "Michael Johnson",
+    "email": "michaeljohnson@example.com",
+    "password": "qwerty",
+    "sex": "male"
+  },
+  {
+    "id_patient": "18d4b36e-4d4e-4f71-b48b-3eb4d81a45b1",
+    "fullname": "Emily Davis",
+    "email": "emilydavis@example.com",
+    "password": "asdfgh",
+    "sex": "female"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "David Brown",
+    "email": "davidbrown@example.com",
+    "password": "zxcvbn",
+    "sex": "male"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "Sarah Wilson",
+    "email": "sarahwilson@example.com",
+    "password": "poiuyt",
+    "sex": "female"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "Andrew Taylor",
+    "email": "andrewtaylor@example.com",
+    "password": "mnbvcx",
+    "sex": "male"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "Olivia Martinez",
+    "email": "oliviamartinez@example.com",
+    "password": "lkjhgf",
+    "sex": "female"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "Christopher Anderson",
+    "email": "christopheranderson@example.com",
+    "password": "098765",
+    "sex": "male"
+  },
+  {
+    "id_patient": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "fullname": "Sophia Thomas",
+    "email": "sophiathomas@example.com",
+    "password": "543210",
+    "sex": "female"
+  }
+]

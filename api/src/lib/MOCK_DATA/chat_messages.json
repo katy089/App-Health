@@ -1,0 +1,47 @@
+[
+  {
+    "id_chat_message": "8fd6b2c7-1951-48b0-bd5f-b54a20525d89",
+    "message": "Mensaje 1 del paciente",
+    "sender_id": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "sender_name": "John David",
+    "sender_role": "patient",
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "createdAt": "2024-04-17 17:00:00"
+  },
+  {
+    "id_chat_message": "3b2a1d46-3fe8-498b-b1e1-30fd5e19a91d",
+    "message": "Mensaje 1 del doctor",
+    "sender_id": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "sender_name": "John Doe",
+    "sender_role": "doctor",
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "createdAt": "2024-04-17 17:00:00"
+  },
+  {
+    "id_chat_message": "e1c5c20a-10d7-468b-9e14-9fb184ef509c",
+    "message": "Mensaje 2 del paciente",
+    "sender_id": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "sender_name": "John David",
+    "sender_role": "patient",
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "createdAt": "2024-04-17 17:02:00"
+  },
+  {
+    "id_chat_message": "80f3fd24-3dc3-4727-b3c5-f9f38959521d",
+    "message": "Mensaje 2 del doctor",
+    "sender_id": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "sender_name": "John Doe",
+    "sender_role": "doctor",
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "createdAt": "2024-04-17 17:03:00"
+  },
+  {
+    "id_chat_message": "6a13d6ee-c6c3-47b1-a203-ff7de3494db7",
+    "message": "Mensaje 3 del paciente",
+    "sender_id": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "sender_name": "John David",
+    "sender_role": "patient",
+    "id_chat": "09b39b81-9b42-4c92-bbc3-77bb55624ba1",
+    "createdAt": "2024-04-17 17:05:00"
+  }
+]
